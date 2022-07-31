@@ -1,5 +1,6 @@
 {
   "name": "vue3-drag-and-drop",
+  "description": "A lightweight Vue wrapper that abstracts away the wonkier parts of the Drag and Drop Browser API",
   "version": "0.1.0",
   "private": true,
   "scripts": {
